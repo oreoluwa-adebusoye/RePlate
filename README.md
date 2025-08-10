@@ -1,12 +1,38 @@
-# React + Vite
+# RePlate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LeftoverLink is a lightweight web app for organizations to post and claim leftover food before it goes to waste. Perfect for schools, offices, and event-based groups.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Organization-level posts** for leftover food
+- **Groups/departments** to target specific audiences
+- Real-time countdown timers for post expiration
+- **Claim system** to prevent duplicate pickups
+- Optional **photo uploads** for each post
+- Simple role toggle for **organizer** or **member**
+- Fully responsive UI with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼 Demo
+*(Insert screenshot or GIF here)*
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- **Frontend:** React (Vite) + Tailwind CSS
+- **State Management:** Local Storage (MVP)
+- **Icons/Styling:** Heroicons & custom Tailwind components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+
+### Installation
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/leftoverlink.git
+cd leftoverlink
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
