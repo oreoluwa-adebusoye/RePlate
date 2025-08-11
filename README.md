@@ -1,6 +1,6 @@
 # RePlate
 
-LeftoverLink is a lightweight web app for organizations to post and claim leftover food before it goes to waste. Perfect for schools, offices, and event-based groups.
+RePlate is a lightweight web app for organizations to post and claim leftover food before it goes to waste. Perfect for schools, offices, and event-based groups.
 
 ## ✨ Features
 - **Organization-level posts** for leftover food
